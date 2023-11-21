@@ -1,0 +1,35 @@
+.customRadio {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.customRadio+label {
+    display: inline-flex;
+    align-items: center;
+    user-select: none;
+}
+
+.customRadio+label::before {
+    content: '';
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 1px solid #F2F2F3;
+    border-radius: 100%;
+    margin-right: 8px;
+}
+
+.customRadio:not(:disabled):not(:checked)+label:hover::before {
+    border-color: #c4c4c4;
+}
+
+.customRadio:focus:not(:checked)+label::before {
+    border-color: #939393;
+}
+.customRadio:checked+label::before {
+    background: url("checkedInput.png") center no-repeat;
+}
+.customRadio:disabled+label::before {
+    background-color: #e9ecef;
+}
