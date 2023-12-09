@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.1d7bc0da.css",
-    "main.js": "./static/js/main.cf8591ad.js",
-    "static/media/burger.png": "./static/media/burger.28502710989f97bce62b.png",
-    "static/media/donutPicture.png": "./static/media/donutPicture.8b0ea9daf758851f6ccd.png",
-    "index.html": "./index.html",
-    "static/media/callIco.svg": "./static/media/callIco.05cf066b32c5124b34c8c6bf83b502f6.svg",
-    "static/media/close.svg": "./static/media/close.d7f2dfdc254dc85cc0677136ddf441b3.svg",
-    "main.1d7bc0da.css.map": "./static/css/main.1d7bc0da.css.map",
-    "main.cf8591ad.js.map": "./static/js/main.cf8591ad.js.map"
+    "main.css": "/static/css/main.1d7bc0da.css",
+    "main.js": "/static/js/main.f8505939.js",
+    "static/media/burger.png": "/static/media/burger.28502710989f97bce62b.png",
+    "static/media/donutPicture.png": "/static/media/donutPicture.8b0ea9daf758851f6ccd.png",
+    "index.html": "/index.html",
+    "static/media/callIco.svg": "/static/media/callIco.05cf066b32c5124b34c8c6bf83b502f6.svg",
+    "static/media/close.svg": "/static/media/close.d7f2dfdc254dc85cc0677136ddf441b3.svg",
+    "main.1d7bc0da.css.map": "/static/css/main.1d7bc0da.css.map",
+    "main.f8505939.js.map": "/static/js/main.f8505939.js.map"
   },
   "entrypoints": [
     "static/css/main.1d7bc0da.css",
-    "static/js/main.cf8591ad.js"
+    "static/js/main.f8505939.js"
   ]
 }
